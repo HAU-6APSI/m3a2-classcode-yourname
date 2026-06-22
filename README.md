@@ -11,7 +11,9 @@ styled-components) and any UI library.
 > **Full brief and concepts** are in your course workspace repo:
 > `content/m3-styling/m3a2-portfolio.md`, the styling docs
 > `content/m3-styling/01`-`07`, and the design theory in `content/react-theory/`.
-> How you are graded: `content/m3-styling/ASSESSMENT.md`.
+> **Graded out of 100: 50 automated + a 50-point design rubric** (visual design,
+> responsive quality, consistency, accessibility, code, completeness). Full
+> rubric in `content/m3-styling/ASSESSMENT.md`.
 
 ## What to build (in `src/App.jsx`)
 
